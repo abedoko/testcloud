@@ -1,2 +1,2 @@
-# guohuaicloud
-vue pc端项目
+
+vue pc 配置准备
